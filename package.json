@@ -4,6 +4,7 @@
   "author": "Gabriel Herrera <gabriel.herrera@gmail.com>",
   "version": "0.0.1",
   "private": true,
+  "main": "router.js",
   "dependencies": {
     "underscore": "*"
   },
