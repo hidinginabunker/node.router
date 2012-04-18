@@ -1,0 +1,17 @@
+{
+  "name": "router",
+  "description": "Rails inspired url router",
+  "author": "Gabriel Herrera <gabriel.herrera@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "lint": "./scripts/lint.js"
+  },
+  "engine": "node >= 0.6.6"
+}
