@@ -1,7 +1,5 @@
 var router      = module.exports
   , underscore  = require('underscore')
-  , pages       = require('./request_handlers/pages.js')
-  , files       = require('./request_handlers/files.js')
 
 
 var TRAILING_SLASH          = /\/$/
